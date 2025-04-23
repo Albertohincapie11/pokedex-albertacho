@@ -19,6 +19,8 @@
 2.  En la esquina superior derecha, ¡busca el botón **Fork** y haz clic! 👆
 3.  Ponle un nombre genial a tu copia, como **albertacho**, ¡y dale a **Create fork**! 🎉
 
+---
+
 ## 2. 🗺️ ¡Navegando a la Ubicación Correcta! (App Location Adventure!) 🧭
 
 1.  ¡Tu nuevo hogar para el código! 🏡 Visita: [https://github.com/albertacho/albertacho](https://github.com/albertacho/albertacho)
@@ -35,10 +37,14 @@
     ```
 7.  ¡Guarda los cambios con un clic en **Commit changes**! ✅
 
+---
+
 ## 3. 🚦 ¡Luces, Cámara, Actions! (Checking the Magic!) ✨
 
 1.  En la parte superior de tu repo, ¡haz clic en **Actions**! 🎬
 2.  Verás un flujo de trabajo en acción (o ya terminado) de Azure Static Web Apps. ¡Espera a que diga "completado" para estar seguro! ⏳
+
+---
 
 ## 4. 🚀 ¡Despegue a la Nube de Azure! (Azure Deployment!) ☁️
 
@@ -46,6 +52,8 @@
 2.  Haz clic en el nombre de tu Static Web App.
 3.  ¡Busca el botón **Ir al recurso** y haz clic con emoción! 😄
 4.  En la sección de **URL**, ¡encontrarás el enlace mágico a tu Pokedex en la web! 🌐 ¡Haz clic para verlo! 👀
+
+---
 
 ## 5. 🛡️ ¡Añadiendo Escudos de Seguridad y Rutas Inteligentes! (Security & Navigation!) 🧭
 
@@ -69,6 +77,8 @@
     ```
 6.  ¡Guarda los cambios con **Commit changes**! ✅
 7.  Ve a **Actions** de nuevo y espera a que la magia de Azure Static Web Apps se complete. ✨
+
+---
 
 ## 6. 🖼️ ¡Dando Vida a los Pokémon con Imágenes! (Loading Pokemon Images!) 🎨
 
