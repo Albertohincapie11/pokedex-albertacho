@@ -103,7 +103,7 @@ Puedes monitorear el proceso en:
 
 Una vez completado el flujo de trabajo, tendrás una URL como esta:
 
-👉 [https://white-field-0177d4a10.6.azurestaticapps.net/](https://white-field-0177d4a10.6.azurestaticapps.net/)
+👉 [https://delightful-field-02ef8bb10.6.azurestaticapps.net/](https://delightful-field-02ef8bb10.6.azurestaticapps.net/)
 
 Puedes:
 
