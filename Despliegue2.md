@@ -1,5 +1,16 @@
 # 🧪 Despliegue del Proyecto Pokedex en Azure Static Web Apps
 
+### Link de la web en la nube: [https://delightful-field-02ef8bb10.6.azurestaticapps.net/](https://delightful-field-02ef8bb10.6.azurestaticapps.net/)
+
+✍️ **Autor:** Alberto José Hincapié Martínez   
+📂 **Repositorio:** [https://github.com/Albertohincapie11/albertacho](https://github.com/Albertohincapie11/albertacho)   
+📚 **Asignatura:** Sistemas Distribuidos   
+🎓 **Semestre:** 9no semestre - Ingeniería de Sistemas   
+📅 **Fecha:** 13/04/2025 
+
+---
+---
+
 ## 1️⃣ Fork del Repositorio
 
 1. Ingresamos al siguiente repositorio en GitHub:  
