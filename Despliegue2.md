@@ -56,7 +56,7 @@
 
 ## 5. 🛡️ ¡Añadiendo Escudos de Seguridad y Rutas Inteligentes! (Security & Navigation!) 🧭
 
-1.  De vuelta a tu repo: [https://github.com/albertacho/albertacho](https://github.com/albertacho/albertacho)
+1.  De vuelta a tu repositorio: [https://github.com/albertacho/albertacho](https://github.com/Albertohincapie11/albertacho)
 2.  Navega a: **sistemas-distribuidos/poke-dex-lab/source/pokedex-angular/** 📂
 3.  ¡Crea un nuevo archivo! ➕ Haz clic en **Add file** y luego en **Create new file**.
 4.  ¡Nómbralo con estilo! 🏷️ **staticwebapp.config.json**
