@@ -9,7 +9,6 @@
 📅 **Fecha:** 13/04/2025 
 
 ---
----
 
 ## 🧾 Requisitos Previos
 
