@@ -95,3 +95,29 @@
 6.  ¡Una última visita a **Actions**! ⏳ Espera a que termine el proceso. ¡Y voilà! 🎉 Tus imágenes de Pokémon deberían aparecer.
 
 ¡Felicidades! 🎉 Has desplegado tu Pokedex en Azure Static Web Apps y has configurado todo para que luzca increíble. ¡Disfruta de tu Pokedex en la nube! 🚀
+
+---
+
+## 🌟 **Creador del Proyecto** 🙌
+
+<div align="center" style="border: 3px solid #ffcb05; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #e4f0fc 100%); margin: 20px 0;">
+
+[![GitHub Follow](https://img.shields.io/github/followers/Albertohincapie11?style=social&label=Síguelo%20en%20GitHub!)](https://github.com/Albertohincapie11)
+
+### 🧙‍♂️ **Alberto José Hincapié Martínez**  
+#### *"Estudiante Apasionado de Ingeniería de Sistemas"*  
+
+[![Portafolio Badge](https://img.shields.io/badge/🎮_Mi_Universo_Digital-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Albertohincapie11)
+
+</div>
+
+### 🏆 Habilidades Especiales:
+- 🛠️ **Auxiliar Multifuncional**: Apoyo en Sistemas. IT y TIC.
+- 💻 **Desarrollo de Software**: Full Stack Developer (front-end + back-end)
+- 🔐 **Ciberseguridad**: Proteccón de datos y redes.
+- 🖥️ **Mantenimiento de Computadores**: Diagnóstico y reparación de equipos.
+- 🎨 **Herramientas Digitales**: 
+  - Excel: Analisis de datos.
+  - Photoshop: Diseño y edición gráfica.
+- ⚕️ **SG-SST (50 Horas)**: Formación en seguridad laboral
+- 📢 **Marketing Digital**: Estrategias en SEO y redes sociales.
