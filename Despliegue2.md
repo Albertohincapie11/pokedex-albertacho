@@ -9,7 +9,6 @@
 📅 **Fecha:** 13/04/2025 
 
 ---
----
 
 ¡Prepárate para llevar tu Pokedex a la nube de una manera súper sencilla y visual! ☁️
 
