@@ -64,7 +64,7 @@
     ```json
     {
       "globalHeaders": {
-        "Content-Security-Policy": "default-src 'self'; img-src 'self' [https://raw.githubusercontent.com](https://raw.githubusercontent.com) [https://pokeapi.co](https://pokeapi.co) [https://assets.pokemon.com](https://assets.pokemon.com); script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' [https://fonts.googleapis.com](https://fonts.googleapis.com); font-src 'self' [https://fonts.gstatic.com](https://fonts.gstatic.com); connect-src 'self' [https://beta.pokeapi.co](https://beta.pokeapi.co)",
+        "Content-Security-Policy": "default-src 'self'; img-src 'self' https://raw.githubusercontent.com https://pokeapi.co https://assets.pokemon.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://beta.pokeapi.co",
         "X-Frame-Options": "DENY",
         "Permissions-Policy": "geolocation=(), microphone=(), camera=()"
       },
