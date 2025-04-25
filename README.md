@@ -54,6 +54,7 @@
 | "Correo no reconocido" | Contacta al departamento de TI de tu universidad |
 | No llega código de verificación | Revisa carpeta SPAM o solicita reenvío |
 | "Institución no válida" | Intenta con documento estudiantil en [verificación manual](https://aka.ms/azurestudentverify) |
+| "Cuenta ya registrada, sin créditos" | Regístrate en el programa Azure Starter, que te permite activar créditos adicionales. |
 
 <div align="center" style="margin: 30px 0">
   <a href="https://azure.microsoft.com/free/students/">
