@@ -28,7 +28,7 @@
 4.  ¡Es hora de editar! ✏️ Haz clic en el icono del lápiz.
 5.  Busca la línea **#31**:
     ```yaml
-    app_location:
+    app_location: "./sistemas-distribuidos"
     ```
 6.  ¡Reemplaza lo que esté entre las comillas por esta ruta secreta! 🤫
     ```yaml
