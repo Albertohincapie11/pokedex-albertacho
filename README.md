@@ -1,5 +1,3 @@
-# pokedex-albertacho
-
 # 🎯 Guía Paso a Paso para Registrarte en Azure for Students
 
 <div align="center">
